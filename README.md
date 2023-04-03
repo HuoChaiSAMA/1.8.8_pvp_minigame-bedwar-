@@ -1,2 +1,2 @@
-# 1.8.8_pvp_minigame-bedwar-
-An another Minecraft Server Save that based on Minecraft 1.8.8
+***HuoChaiSAMA*** 的 `MiniGame` **小**服务器
+完了
