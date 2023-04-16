@@ -1,0 +1,602 @@
+[18:28:32] [Server thread/INFO]: Loading properties
+[18:28:32] [Server thread/INFO]: Default game type: SURVIVAL
+[18:28:32] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:28:32] [Server thread/INFO]: Debug logging is disabled
+[18:28:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:28:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:28:32] [Server thread/INFO]: Generating keypair
+[18:28:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:28:32] [Server thread/INFO]: Using default channel type
+[18:28:32] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[18:28:33] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:28:33] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[18:28:33] [Server thread/INFO]: [BedwarsScoreBoardAddon] Loading BedwarsScoreBoardAddon v2.13.1
+[18:28:33] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[18:28:33] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[18:28:33] [Server thread/INFO]: [BedwarsRel] Loading BedwarsRel v1.3.6
+[18:28:33] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.17.1-SNAPSHOT-Updated-b149
+[18:28:33] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[18:28:33] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[18:28:33] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.8.8
+[18:28:33] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.4
+[18:28:33] [Server thread/INFO]: [Duels] Loading Duels v3.5.2
+[18:28:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[18:28:33] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:28:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:28:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:28:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:28:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:28:33] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:28:33] [Server thread/INFO]: Preparing level "world"
+[18:28:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:28:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:28:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:28:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:28:33] [Server thread/INFO]: View Distance: 10
+[18:28:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:28:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:28:33] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:28:33] [Server thread/INFO]: Mob Spawn Range: 4
+[18:28:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:28:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:28:33] [Server thread/INFO]: Anti X-Ray: true
+[18:28:33] [Server thread/INFO]: 	Engine Mode: 1
+[18:28:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:28:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:28:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:28:33] [Server thread/INFO]: Random Lighting Updates: false
+[18:28:33] [Server thread/INFO]: Structure Info Saving: true
+[18:28:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:28:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:28:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:28:33] [Server thread/INFO]: Max Entity Collisions: 8
+[18:28:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:28:33] [Server thread/INFO]: Max TNT Explosions: 100
+[18:28:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:28:33] [Server thread/INFO]: Clear tick list: false
+[18:28:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:28:34] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:28:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:28:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:28:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:28:34] [Server thread/INFO]: View Distance: 10
+[18:28:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:28:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:28:34] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:28:34] [Server thread/INFO]: Mob Spawn Range: 4
+[18:28:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:28:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:28:34] [Server thread/INFO]: Anti X-Ray: true
+[18:28:34] [Server thread/INFO]: 	Engine Mode: 1
+[18:28:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:28:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:28:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Random Lighting Updates: false
+[18:28:34] [Server thread/INFO]: Structure Info Saving: true
+[18:28:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:28:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:28:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:28:34] [Server thread/INFO]: Max Entity Collisions: 8
+[18:28:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:28:34] [Server thread/INFO]: Max TNT Explosions: 100
+[18:28:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:28:34] [Server thread/INFO]: Clear tick list: false
+[18:28:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:28:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:28:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:28:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:28:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:28:34] [Server thread/INFO]: View Distance: 10
+[18:28:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:28:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:28:34] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:28:34] [Server thread/INFO]: Mob Spawn Range: 4
+[18:28:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:28:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:28:34] [Server thread/INFO]: Anti X-Ray: true
+[18:28:34] [Server thread/INFO]: 	Engine Mode: 1
+[18:28:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:28:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:28:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:28:34] [Server thread/INFO]: Random Lighting Updates: false
+[18:28:34] [Server thread/INFO]: Structure Info Saving: true
+[18:28:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:28:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:28:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:28:34] [Server thread/INFO]: Max Entity Collisions: 8
+[18:28:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:28:34] [Server thread/INFO]: Max TNT Explosions: 100
+[18:28:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:28:34] [Server thread/INFO]: Clear tick list: false
+[18:28:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:28:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3332749509290492151)
+[18:28:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3332749509290492151)
+[18:28:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3332749509290492151)
+[18:28:35] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[18:28:35] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[18:28:35] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[18:28:35] [Server thread/INFO]: [BedwarsScoreBoardAddon] Enabling BedwarsScoreBoardAddon v2.13.1
+[18:28:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[18:28:35] [Server thread/INFO]: [Multiverse-Core] ��aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18:28:35] [Server thread/ERROR]: Error occurred while enabling Multiverse-Core v4.3.1-b861 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/entity/Phantom
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.killDecision(SimpleWorldPurger.java:152) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:119) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:197) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:74) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:286) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:260) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.validate(SerializationConfig.java:893) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:443) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:368) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:353) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValueUnchecked(SerializationConfig.java:736) ~[?:?]
+	at com.onarandombox.MultiverseCore.WorldProperties.setAllowAnimalSpawn(WorldProperties.java:424) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.setAllowAnimalSpawn(MVWorld.java:767) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateEntitySpawns(MVWorld.java:195) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateProperties(MVWorld.java:205) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:94) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:59) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:496) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:467) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:442) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.loadWorlds(WorldManager.java:770) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:313) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.entity.Phantom
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	... 33 more
+[18:28:35] [Server thread/INFO]: [BedwarsRel] Enabling BedwarsRel v1.3.6
+[18:28:35] [Server thread/WARN]: log4j:ERROR Could not parse url [jar:file:/C:/Users/Administrator/Desktop/�ļ���/HuoChai%20Server/1.8.8pvp-MiniGames/plugins/BedwarsRel-1.3.6.jar!/log4j.xml].
+[18:28:35] [Server thread/WARN]: com.sun.org.apache.xerces.internal.util.URI$MalformedURIException: Opaque part contains invalid character: ��
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.util.URI.initializePath(URI.java:1143)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.util.URI.initialize(URI.java:583)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.util.URI.<init>(URI.java:336)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.util.URI.<init>(URI.java:299)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.expandSystemIdStrictOff1(XMLEntityManager.java:2395)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.expandSystemId(XMLEntityManager.java:2241)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.resolveEntityAsPerStax(XMLEntityManager.java:996)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1142)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:246)
+[18:28:35] [Server thread/WARN]: 	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.apache.log4j.xml.DOMConfigurator$2.parse(DOMConfigurator.java:769)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:871)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:778)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:526)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.apache.log4j.LogManager.<clinit>(LogManager.java:127)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.impl.Log4jLoggerFactory.<init>(Log4jLoggerFactory.java:66)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.impl.StaticLoggerBinder.<init>(StaticLoggerBinder.java:72)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.impl.StaticLoggerBinder.<clinit>(StaticLoggerBinder.java:45)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.LoggerFactory.bind(LoggerFactory.java:150)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.LoggerFactory.performInitialization(LoggerFactory.java:124)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.LoggerFactory.getILoggerFactory(LoggerFactory.java:412)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:357)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383)
+[18:28:35] [Server thread/WARN]: 	at thirdparty.com.bugsnag.Bugsnag.<clinit>(Bugsnag.java:13)
+[18:28:35] [Server thread/WARN]: 	at io.github.bedwarsrel.BedwarsRel.registerBugsnag(BedwarsRel.java:824)
+[18:28:35] [Server thread/WARN]: 	at io.github.bedwarsrel.BedwarsRel.onEnable(BedwarsRel.java:758)
+[18:28:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[18:28:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[18:28:35] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[18:28:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[18:28:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[18:28:35] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[18:28:35] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[18:28:35] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[18:28:35] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[18:28:35] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[18:28:35] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[18:28:36] [Server thread/WARN]: log4j:WARN No appenders could be found for logger (thirdparty.com.bugsnag.Bugsnag).
+[18:28:36] [Server thread/WARN]: log4j:WARN Please initialize the log4j system properly.
+[18:28:36] [Server thread/WARN]: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[18:28:36] [Server thread/INFO]: [0;37;22m[[0;36;1mBedWars[0;37;22m][0;37;1m [0;37;1m[0;31;1mLoading game 'Lectus' throws an error![m
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b149
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+[18:28:36] [Server thread/WARN]: [NoCheatPlus] Bad block id (compatibility.blocks.overrideflags): moving_piston
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Add listener for legacy PlayInFlying packet.
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | CatchAllAdapter | NoSlow | Fight
+[18:28:36] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b149 is enabled.
+[18:28:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.4
+[18:28:36] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_8_R3[32;1m, using [33;1mSpigotSkinRefresher[32;1m.[0;39m[m
+[18:28:37] [Server thread/INFO]: [Duels] Enabling Duels v3.5.2
+[18:28:37] [Server thread/INFO]: [Duels] KitManagerImpl: Loaded 2 kit(s).
+[18:28:37] [Server thread/INFO]: [Duels] ArenaManagerImpl: Loaded 1 arena(s).
+[18:28:37] [Server thread/INFO]: [Duels] [0;31;1mPlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.[m
+[18:28:37] [Server thread/INFO]: [Duels] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[18:28:37] [Server thread/INFO]: [Duels] QueueManager: Loaded 2 queue(s).
+[18:28:37] [Server thread/INFO]: [Duels] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[18:28:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:28:37] [Server thread/INFO]: Done (3.527s)! For help, type "help" or "?"
+[18:28:37] [Craft Scheduler Thread - 1/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[18:28:37] [Craft Scheduler Thread - 1/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
+[18:28:37] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[18:28:37] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[18:28:37] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[18:28:37] [Server thread/INFO]: [0;37;1m===========================================================[m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;36;1m                  BedwarsScoreBoardAddon[m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;37;1m  �汾: [0;32;1m2.13.1[m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;37;1m  ����: [0;32;1mRam[m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;37;1m  ��վ: [0;33;1mhttps://github.com/TheRamU/BedwarsScoreBoardAddon[m
+[18:28:37] [Server thread/INFO]: [0;37;22m [m
+[18:28:37] [Server thread/INFO]: [0;37;1m===========================================================[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;37;1m��ʼ���ز��...[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;37;1m���ڼ��������ļ�...[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;32;1mĬ�������ļ��ѱ��棡[m
+[18:28:37] [Craft Scheduler Thread - 3/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
+ If this message is repeated a lot, please see http://skinsrestorer.net/firewall[0;39m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;32;1m�����ļ����سɹ���[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;37;1m����ע�������...[m
+[18:28:37] [Server thread/WARN]: [ProtocolLib] [PacketFilterManager] [BedwarsScoreBoardAddon] Unsupported client packet in current Minecraft version: USE_ITEM[PLAY, CLIENT, 46, classNames: [net.minecraft.server.v1_8_R3.PacketPlayInUseItem, net.minecraft.network.protocol.game.ServerboundUseItemPacket, net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock] (unregistered)]
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;32;1m������ע��ɹ���[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;37;1m����ע��ָ��...[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;32;1mָ��ע��ɹ���[m
+[18:28:37] [Server thread/INFO]: [BedwarsScoreBoardAddon] [0;32;1m������سɹ���[m
+[18:28:38] [Thread-7/INFO]: UUID of player HuoChaiSAMA is 840a8e1a-4366-3cfd-96c2-6bc6a517cc43
+[18:28:38] [Craft Scheduler Thread - 2/INFO]: [Duels] No updates were available. You are on the latest version!
+[18:28:38] [Server thread/INFO]: HuoChaiSAMA[/127.0.0.1:2428] logged in with entity id 57 at ([world]-153.25981658294256, 70.0, 655.7818954252587)
+[18:28:40] [Thread-9/ERROR]: [BedwarsRel] The updater could not check version!
+[18:28:43] [Server thread/INFO]: [0;37;1m=====================================================[m
+[18:28:43] [Server thread/INFO]: [0;37;22m [m
+[18:28:43] [Server thread/INFO]:                [0;32;1mBedwarsScoreBoardAddon[m
+[18:28:43] [Server thread/INFO]: [0;37;22m [m
+[18:28:43] [Server thread/INFO]:   [0;33;1m��⵽�汾���£�[m
+[18:28:43] [Server thread/INFO]: [0;37;22m [m
+[18:28:43] [Server thread/INFO]:   [0;37;1m��ǰ�汾: [0;32;1m2.13.1[m
+[18:28:43] [Server thread/INFO]:   [0;37;1m���°汾: [0;32;1m <!DOCTYPE html> <html lang="zh-CN">  <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width[m
+[18:28:43] [Server thread/INFO]: [0;37;22m [m
+[18:28:43] [Server thread/INFO]:   [0;37;1m��������: [m
+[18:28:43] [Server thread/INFO]:     [0;37;1m1. [0;33;1mchrome=1" />     <meta name="ahot-aplus" content="1">     <meta name="aplus-rate-ahot" content="0.5">     <title>阿里云登�? - 欢迎登录阿里云，安全稳定的云计算服务平台</title>      <!-- TRACK 埋点-->     <meta name="data-spm" content="5176" />     <meta name="description" content="欢迎登录阿里云，全球领先的云计算及人工智能科�?公司，阿里云�?200多个国家和地区的企业、开发�?�和政府机构提供云计算基�?服务及解决方案�?�阿里云云计算�?�安全�?�大数据、人工智能�?�企业应用�?�物联网等云计算服务�?">     <meta name="keyword" content="云服务器、云主机、弹性计算�?�云存储、开放存储�?�OSS、ACE、数据库、mysql、RDS、SQLSERVER、开发�?��?�负载均衡�?�防攻击、防DDOS攻击、云监控、云浏览器�?�云地图、云邮箱、phpwind、阿里云、云产品、云计算、多线带宽�?�BGP、服务器环境配置、渲染云、云手机、云盾�?�应用托管�?�云引擎、解决方�?">     <meta property="og:title" content="阿里云登�? - 欢迎登录阿里云，安全稳定的云计算服务平台" />     <meta property="og:description" content="欢迎登录阿里云，全球领先的云计算及人工智能科�?公司，阿里云�?200多个国家和地区的企业、开发�?�和政府机构提供云计算基�?服务及解决方案�?�阿里云云计算�?�安全�?�大数据、人工智能�?�企业应用�?�物联网等云计算服务�?" />     <meta property="og:image" content="https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png" />     <meta http-equiv="x-dns-prefetch-control" content="on">     <link rel="dns-prefetch" href="//g.alicdn.com">     <link rel="preconnect" href="//passport.aliyun.com" crossorigin>     <link rel="dns-prefetch" href="//passport.aliyun.com">     <link rel="dns-prefetch" href="//jump.alibaba.com">     <link rel="dns-prefetch" href="//pass.aliyun.com">     <link rel="dns-prefetch" href="https://common-buy.aliyun.com/">     <link rel="preconnect" href="https://usercenter2.aliyun.com/">          <link rel="icon" href="https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico" type="image/x-icon">     <link rel="stylesheet" href="//at.alicdn.com/t/font_2534976_apzveejcbkf.css">     <link rel="stylesheet" href="//g.alicdn.com/dawn/fe-account-login/0.0.45/index.css"> </head> <body data-spm="12901015-2"><script  type="text/javascript"> (function  (d)  { var  t=d.createElement("script")[m
+[18:28:43] [Server thread/INFO]:     [0;37;1m2. [0;33;1mt.type="text/javascript"[m
+[18:28:43] [Server thread/INFO]:     [0;37;1m3. [0;33;1mt.async=true[m
+[18:28:43] [Server thread/INFO]:     [0;37;1m4. [0;33;1mt.id="tb-beacon-aplus"[m
+[18:28:43] [Server thread/INFO]:     [0;37;1m5. [0;33;1m t.setAttribute("exparams"[m
+[18:28:43] [Server thread/INFO]: [0;37;22m [m
+[18:28:43] [Server thread/INFO]:   [0;37;1m���µ�ַ: [0;36;1m[4m initial-scale=1.0">     <meta http-equiv="X-UA-Compatible" content="IE=edge[m
+[18:28:43] [Server thread/INFO]: [m
+[18:28:43] [Server thread/INFO]: [0;37;1m=====================================================[m
+[18:28:53] [Server thread/INFO]: HuoChaiSAMA issued server command: /kill
+[18:28:53] [Server thread/INFO]: HuoChaiSAMA fell out of the world
+[18:28:53] [Server thread/INFO]: [HuoChaiSAMA: Killed HuoChaiSAMA]
+[18:28:58] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.3.1-b861
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:759) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:75) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 17 more
+[18:28:58] [Server thread/INFO]: @: Starting import of world 'Lectus'...[m
+[18:28:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Lectus' - Env: NORMAL - Type: null
+[18:28:58] [Server thread/INFO]: -------- World Settings For [Lectus] --------
+[18:28:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:28:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:28:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:28:58] [Server thread/INFO]: View Distance: 10
+[18:28:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:28:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:28:58] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:28:58] [Server thread/INFO]: Mob Spawn Range: 4
+[18:28:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:28:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:28:58] [Server thread/INFO]: Anti X-Ray: true
+[18:28:58] [Server thread/INFO]: 	Engine Mode: 1
+[18:28:58] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:28:58] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:28:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Random Lighting Updates: false
+[18:28:58] [Server thread/INFO]: Structure Info Saving: true
+[18:28:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:28:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:28:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:28:58] [Server thread/INFO]: Max Entity Collisions: 8
+[18:28:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:28:58] [Server thread/INFO]: Max TNT Explosions: 100
+[18:28:58] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:28:58] [Server thread/INFO]: Clear tick list: false
+[18:28:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:28:58] [Server thread/INFO]: Preparing start region for level 3 (Seed: 0)
+[18:28:58] [Server thread/INFO]: @: [0;32;1mComplete![m
+[18:28:58] [Server thread/INFO]: @: Starting import of world 'world'...[m
+[18:28:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: null
+[18:28:58] [Server thread/WARN]: CommandBlock at (18,149,129) failed to handle command
+org.bukkit.command.CommandException: Unhandled exception executing command 'mv' in plugin Multiverse-Core v4.3.1-b861
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.CommandBlockListenerAbstract.executeCommand(CommandBlockListenerAbstract.java:211) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.CommandBlockListenerAbstract.a(CommandBlockListenerAbstract.java:92) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.BlockCommand.b(BlockCommand.java:48) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:653) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:770) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/bukkit/entity/Phantom
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.killDecision(SimpleWorldPurger.java:152) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:119) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:197) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:74) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:286) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:260) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.validate(SerializationConfig.java:893) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:443) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:368) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:353) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValueUnchecked(SerializationConfig.java:736) ~[?:?]
+	at com.onarandombox.MultiverseCore.WorldProperties.setAllowAnimalSpawn(WorldProperties.java:424) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.setAllowAnimalSpawn(MVWorld.java:767) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateEntitySpawns(MVWorld.java:195) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateProperties(MVWorld.java:205) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:94) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:59) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:496) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.addWorld(WorldManager.java:288) ~[?:?]
+	at com.onarandombox.MultiverseCore.commands.ImportCommand.runCommand(ImportCommand.java:131) ~[?:?]
+	at com.onarandombox.commandhandler.CommandHandler.checkAndRunCommand(CommandHandler.java:296) ~[?:?]
+	at com.onarandombox.commandhandler.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.onarandombox.commandhandler.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onCommand(MultiverseCore.java:839) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 11 more
+[18:28:58] [Server thread/INFO]: @: Starting import of world 'BioHunt'...[m
+[18:28:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'BioHunt' - Env: NORMAL - Type: null
+[18:28:58] [Server thread/INFO]: -------- World Settings For [BioHunt] --------
+[18:28:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:28:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:28:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:28:58] [Server thread/INFO]: View Distance: 10
+[18:28:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:28:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:28:58] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:28:58] [Server thread/INFO]: Mob Spawn Range: 4
+[18:28:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:28:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:28:58] [Server thread/INFO]: Anti X-Ray: true
+[18:28:58] [Server thread/INFO]: 	Engine Mode: 1
+[18:28:58] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:28:58] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:28:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:28:58] [Server thread/INFO]: Random Lighting Updates: false
+[18:28:58] [Server thread/INFO]: Structure Info Saving: true
+[18:28:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:28:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:28:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:28:58] [Server thread/INFO]: Max Entity Collisions: 8
+[18:28:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:28:58] [Server thread/INFO]: Max TNT Explosions: 100
+[18:28:58] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:28:58] [Server thread/INFO]: Clear tick list: false
+[18:28:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:28:58] [Server thread/INFO]: Preparing start region for level 4 (Seed: -2872295597191203193)
+[18:28:58] [Server thread/INFO]: @: [0;32;1mComplete![m
+[18:28:58] [Server thread/INFO]: [0;37;22m[[0;36;1mBedWars[0;37;22m][0;37;1m [0;37;1m[0;32;1mGame 'Lectus' successfully loaded![m
+[18:28:59] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.3.1-b861
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:759) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:75) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 17 more
+[18:29:00] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.3.1-b861
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:759) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:75) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 17 more
+[18:29:00] [Server thread/INFO]: [@: Teleported HuoChaiSAMA to -153.5, 78.0, 651.5]
+[18:29:00] [Server thread/INFO]: [@: Teleported HuoChaiSAMA to -153.5, 78.0, 651.5]
+[18:29:00] [Server thread/INFO]: [@: Teleported HuoChaiSAMA to -153.5, 78.0, 651.5]
+[18:29:00] [Server thread/INFO]: [@: Teleported HuoChaiSAMA to -153.5, 78.0, 651.5]
+[18:29:11] [Server thread/INFO]: HuoChaiSAMA issued server command: /weather clear
+[18:29:11] [Server thread/INFO]: [HuoChaiSAMA: Changing to clear weather]
+[18:29:17] [Server thread/INFO]: HuoChaiSAMA issued server command: /gamemode c
+[18:29:17] [Server thread/INFO]: [HuoChaiSAMA: Set own game mode to Creative Mode]
+[18:30:26] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.3.1-b861
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:759) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:75) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 17 more
+[18:36:47] [Server thread/INFO]: HuoChaiSAMA issued server command: /gamemode c
+[18:36:47] [Server thread/INFO]: [HuoChaiSAMA: Set own game mode to Creative Mode]
+[18:36:49] [Server thread/INFO]: HuoChaiSAMA issued server command: /weather clear
+[18:36:49] [Server thread/INFO]: [HuoChaiSAMA: Changing to clear weather]
+[18:37:26] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.3.1-b861
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:759) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:75) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 17 more
+[18:37:34] [Server thread/INFO]: Stopping the server
+[18:37:34] [Server thread/INFO]: Stopping server
+[18:37:34] [Server thread/INFO]: [Duels] Disabling Duels v3.5.2
+[18:37:34] [Server thread/INFO]: [Duels] Disable process took 19ms.
+[18:37:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.4
+[18:37:34] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b149
+[18:37:34] [Server thread/INFO]: [NoCheatPlus] Removed hook: ViolationFrequency(NCP) [1.0].
+[18:37:34] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[18:37:34] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b149 is disabled.
+[18:37:34] [Server thread/INFO]: [BedwarsRel] Disabling BedwarsRel v1.3.6
+[18:37:34] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[18:37:34] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[18:37:34] [Server thread/INFO]: [BedwarsScoreBoardAddon] Disabling BedwarsScoreBoardAddon v2.13.1
+[18:37:34] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[18:37:34] [Server thread/INFO]: Saving players
+[18:37:34] [Server thread/INFO]: HuoChaiSAMA lost connection: Server closed
+[18:37:34] [Server thread/INFO]: HuoChaiSAMA left the game.
+[18:37:34] [Server thread/INFO]: Saving worlds
+[18:37:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:37:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:37:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[18:37:34] [Server thread/INFO]: Saving chunks for level 'Lectus'/Overworld
+[18:37:34] [Server thread/INFO]: Saving chunks for level 'BioHunt'/Overworld

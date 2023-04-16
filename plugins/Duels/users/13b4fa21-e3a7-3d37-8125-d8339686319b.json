@@ -1,0 +1,9 @@
+{
+  "uuid": "13b4fa21-e3a7-3d37-8125-d8339686319b",
+  "name": "Jerry",
+  "wins": 0,
+  "losses": 0,
+  "requests": true,
+  "rating": null,
+  "matches": [ ]
+}

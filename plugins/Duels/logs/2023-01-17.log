@@ -1,0 +1,528 @@
+[23-01-17 14:46:54] [INFO] [DEBUG] onEnable start -> 1673938014479
+
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of Config at 1673938014542
+[23-01-17 14:46:54] [INFO] [DEBUG] Config has been loaded. (took 10ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of Lang at 1673938014552
+[23-01-17 14:46:54] [INFO] [DEBUG] Lang has been loaded. (took 29ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673938014582
+[23-01-17 14:46:54] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of GuiListener at 1673938014583
+[23-01-17 14:46:54] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673938014583
+[23-01-17 14:46:54] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 14:46:54] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 77ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673938014660
+[23-01-17 14:46:54] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 14:46:54] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 10ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of SettingsManager at 1673938014670
+[23-01-17 14:46:54] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673938014670
+[23-01-17 14:46:54] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 14:46:54] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673938014671
+[23-01-17 14:46:54] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of BettingManager at 1673938014671
+[23-01-17 14:46:54] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 14:46:54] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of InventoryManager at 1673938014671
+[23-01-17 14:46:54] [INFO] [DEBUG] InventoryManager has been loaded. (took 1ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of DuelManager at 1673938014672
+[23-01-17 14:46:54] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of QueueManager at 1673938014672
+[23-01-17 14:46:54] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 14:46:54] [INFO] [DEBUG] QueueManager has been loaded. (took 9ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673938014681
+[23-01-17 14:46:54] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 14:46:54] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 20ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of RequestManager at 1673938014701
+[23-01-17 14:46:54] [INFO] [DEBUG] RequestManager has been loaded. (took 1ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of Teleport at 1673938014702
+[23-01-17 14:46:54] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 14:46:54] [INFO] [DEBUG] Starting load of ExtensionManager at 1673938014702
+[23-01-17 14:46:54] [INFO] [DEBUG] ExtensionManager has been loaded. (took 0ms)
+[23-01-17 14:46:55] [INFO] No updates were available. You are on the latest version!
+[23-01-17 15:05:05] [INFO] [DEBUG] onDisable start -> 1673939105876
+
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673939105880
+[23-01-17 15:05:05] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of Teleport at 1673939105880
+[23-01-17 15:05:05] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of RequestManager at 1673939105880
+[23-01-17 15:05:05] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673939105880
+[23-01-17 15:05:05] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of QueueManager at 1673939105880
+[23-01-17 15:05:05] [INFO] [DEBUG] QueueManager has been unloaded. (took 1ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of DuelManager at 1673939105881
+[23-01-17 15:05:05] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of InventoryManager at 1673939105881
+[23-01-17 15:05:05] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of BettingManager at 1673939105881
+[23-01-17 15:05:05] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673939105881
+[23-01-17 15:05:05] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673939105881
+[23-01-17 15:05:05] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 1ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of SettingsManager at 1673939105882
+[23-01-17 15:05:05] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673939105882
+[23-01-17 15:05:05] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673939105882
+[23-01-17 15:05:05] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of GuiListener at 1673939105882
+[23-01-17 15:05:05] [INFO] [DEBUG] GuiListener has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673939105882
+[23-01-17 15:05:05] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 16ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of Lang at 1673939105898
+[23-01-17 15:05:05] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Starting unload of Config at 1673939105898
+[23-01-17 15:05:05] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] unload done (took 22ms)
+[23-01-17 15:05:05] [INFO] [DEBUG] Log#clearSources done (took 1ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] onEnable start -> 1673939107605
+
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of Config at 1673939107645
+[23-01-17 15:05:07] [INFO] [DEBUG] Config has been loaded. (took 6ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of Lang at 1673939107651
+[23-01-17 15:05:07] [INFO] [DEBUG] Lang has been loaded. (took 10ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673939107661
+[23-01-17 15:05:07] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of GuiListener at 1673939107661
+[23-01-17 15:05:07] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673939107661
+[23-01-17 15:05:07] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 15:05:07] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 63ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673939107724
+[23-01-17 15:05:07] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 15:05:07] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 8ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of SettingsManager at 1673939107732
+[23-01-17 15:05:07] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673939107732
+[23-01-17 15:05:07] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 15:05:07] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673939107732
+[23-01-17 15:05:07] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of BettingManager at 1673939107732
+[23-01-17 15:05:07] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 15:05:07] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of InventoryManager at 1673939107732
+[23-01-17 15:05:07] [INFO] [DEBUG] InventoryManager has been loaded. (took 1ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of DuelManager at 1673939107733
+[23-01-17 15:05:07] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of QueueManager at 1673939107733
+[23-01-17 15:05:07] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 15:05:07] [INFO] [DEBUG] QueueManager has been loaded. (took 2ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673939107735
+[23-01-17 15:05:07] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 15:05:07] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 2ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of RequestManager at 1673939107738
+[23-01-17 15:05:07] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of Teleport at 1673939107738
+[23-01-17 15:05:07] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 15:05:07] [INFO] [DEBUG] Starting load of ExtensionManager at 1673939107738
+[23-01-17 15:05:07] [INFO] [DEBUG] ExtensionManager has been loaded. (took 0ms)
+[23-01-17 15:05:08] [INFO] No updates were available. You are on the latest version!
+[23-01-17 15:06:32] [INFO] [DEBUG] onDisable start -> 1673939192461
+
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of Teleport at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of RequestManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of QueueManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] QueueManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of DuelManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of InventoryManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of BettingManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673939192464
+[23-01-17 15:06:32] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 1ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of SettingsManager at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of GuiListener at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] GuiListener has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of Lang at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Starting unload of Config at 1673939192465
+[23-01-17 15:06:32] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] unload done (took 4ms)
+[23-01-17 15:06:32] [INFO] [DEBUG] Log#clearSources done (took 0ms)
+[23-01-17 15:06:42] [INFO] [DEBUG] onEnable start -> 1673939202875
+
+[23-01-17 15:06:42] [INFO] [DEBUG] Starting load of Config at 1673939202908
+[23-01-17 15:06:42] [INFO] [DEBUG] Config has been loaded. (took 7ms)
+[23-01-17 15:06:42] [INFO] [DEBUG] Starting load of Lang at 1673939202915
+[23-01-17 15:06:42] [INFO] [DEBUG] Lang has been loaded. (took 15ms)
+[23-01-17 15:06:42] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673939202930
+[23-01-17 15:06:42] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 1ms)
+[23-01-17 15:06:42] [INFO] [DEBUG] Starting load of GuiListener at 1673939202931
+[23-01-17 15:06:42] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 15:06:42] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673939202931
+[23-01-17 15:06:43] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 15:06:43] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 82ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673939203013
+[23-01-17 15:06:43] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 15:06:43] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 8ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of SettingsManager at 1673939203021
+[23-01-17 15:06:43] [INFO] [DEBUG] SettingsManager has been loaded. (took 1ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673939203022
+[23-01-17 15:06:43] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 15:06:43] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673939203022
+[23-01-17 15:06:43] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of BettingManager at 1673939203022
+[23-01-17 15:06:43] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 15:06:43] [INFO] [DEBUG] BettingManager has been loaded. (took 1ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of InventoryManager at 1673939203023
+[23-01-17 15:06:43] [INFO] [DEBUG] InventoryManager has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of DuelManager at 1673939203023
+[23-01-17 15:06:43] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of QueueManager at 1673939203023
+[23-01-17 15:06:43] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 15:06:43] [INFO] [DEBUG] QueueManager has been loaded. (took 3ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673939203026
+[23-01-17 15:06:43] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 15:06:43] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 12ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of RequestManager at 1673939203038
+[23-01-17 15:06:43] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of Teleport at 1673939203039
+[23-01-17 15:06:43] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] [DEBUG] Starting load of ExtensionManager at 1673939203039
+[23-01-17 15:06:43] [INFO] [DEBUG] ExtensionManager has been loaded. (took 0ms)
+[23-01-17 15:06:43] [INFO] No updates were available. You are on the latest version!
+[23-01-17 16:15:53] [INFO] [DEBUG] onDisable start -> 1673943353228
+
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of Teleport at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of RequestManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of QueueManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] QueueManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of DuelManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of InventoryManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of BettingManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673943353230
+[23-01-17 16:15:53] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 1ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of SettingsManager at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of GuiListener at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] GuiListener has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of Lang at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Starting unload of Config at 1673943353231
+[23-01-17 16:15:53] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] unload done (took 3ms)
+[23-01-17 16:15:53] [INFO] [DEBUG] Log#clearSources done (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] onEnable start -> 1673943354587
+
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of Config at 1673943354613
+[23-01-17 16:15:54] [INFO] [DEBUG] Config has been loaded. (took 5ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of Lang at 1673943354618
+[23-01-17 16:15:54] [INFO] [DEBUG] Lang has been loaded. (took 8ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673943354626
+[23-01-17 16:15:54] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 2ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of GuiListener at 1673943354628
+[23-01-17 16:15:54] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673943354628
+[23-01-17 16:15:54] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 16:15:54] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 61ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673943354689
+[23-01-17 16:15:54] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 16:15:54] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 6ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of SettingsManager at 1673943354695
+[23-01-17 16:15:54] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673943354695
+[23-01-17 16:15:54] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 16:15:54] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673943354695
+[23-01-17 16:15:54] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of BettingManager at 1673943354695
+[23-01-17 16:15:54] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 16:15:54] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of InventoryManager at 1673943354695
+[23-01-17 16:15:54] [INFO] [DEBUG] InventoryManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of DuelManager at 1673943354695
+[23-01-17 16:15:54] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of QueueManager at 1673943354695
+[23-01-17 16:15:54] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 16:15:54] [INFO] [DEBUG] QueueManager has been loaded. (took 2ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673943354697
+[23-01-17 16:15:54] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 16:15:54] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 2ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of RequestManager at 1673943354699
+[23-01-17 16:15:54] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of Teleport at 1673943354699
+[23-01-17 16:15:54] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 16:15:54] [INFO] [DEBUG] Starting load of ExtensionManager at 1673943354699
+[23-01-17 16:15:54] [INFO] [DEBUG] ExtensionManager has been loaded. (took 0ms)
+[23-01-17 16:15:55] [INFO] No updates were available. You are on the latest version!
+[23-01-17 16:16:00] [INFO] [DEBUG] onDisable start -> 1673943360621
+
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of Teleport at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of RequestManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of QueueManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] QueueManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of DuelManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of InventoryManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of BettingManager at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673943360622
+[23-01-17 16:16:00] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 1ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of SettingsManager at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of GuiListener at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] GuiListener has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of Lang at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Starting unload of Config at 1673943360623
+[23-01-17 16:16:00] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] unload done (took 2ms)
+[23-01-17 16:16:00] [INFO] [DEBUG] Log#clearSources done (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] onEnable start -> 1673943374339
+
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of Config at 1673943374373
+[23-01-17 16:16:14] [INFO] [DEBUG] Config has been loaded. (took 6ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of Lang at 1673943374379
+[23-01-17 16:16:14] [INFO] [DEBUG] Lang has been loaded. (took 16ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673943374395
+[23-01-17 16:16:14] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of GuiListener at 1673943374395
+[23-01-17 16:16:14] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673943374396
+[23-01-17 16:16:14] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 16:16:14] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 105ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673943374501
+[23-01-17 16:16:14] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 16:16:14] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 13ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of SettingsManager at 1673943374515
+[23-01-17 16:16:14] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673943374515
+[23-01-17 16:16:14] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 16:16:14] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 1ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673943374516
+[23-01-17 16:16:14] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of BettingManager at 1673943374516
+[23-01-17 16:16:14] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 16:16:14] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of InventoryManager at 1673943374516
+[23-01-17 16:16:14] [INFO] [DEBUG] InventoryManager has been loaded. (took 1ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of DuelManager at 1673943374517
+[23-01-17 16:16:14] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of QueueManager at 1673943374517
+[23-01-17 16:16:14] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 16:16:14] [INFO] [DEBUG] QueueManager has been loaded. (took 4ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673943374522
+[23-01-17 16:16:14] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 16:16:14] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 7ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of RequestManager at 1673943374529
+[23-01-17 16:16:14] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of Teleport at 1673943374529
+[23-01-17 16:16:14] [INFO] [DEBUG] Teleport has been loaded. (took 1ms)
+[23-01-17 16:16:14] [INFO] [DEBUG] Starting load of ExtensionManager at 1673943374530
+[23-01-17 16:16:14] [INFO] [DEBUG] ExtensionManager has been loaded. (took 1ms)
+[23-01-17 16:16:15] [INFO] No updates were available. You are on the latest version!
+[23-01-17 16:21:19] [INFO] [DEBUG] onDisable start -> 1673943679917
+
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673943679919
+[23-01-17 16:21:19] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of Teleport at 1673943679919
+[23-01-17 16:21:19] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of RequestManager at 1673943679919
+[23-01-17 16:21:19] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673943679919
+[23-01-17 16:21:19] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of QueueManager at 1673943679919
+[23-01-17 16:21:19] [INFO] [DEBUG] QueueManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of DuelManager at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of InventoryManager at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of BettingManager at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of SettingsManager at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of GuiListener at 1673943679920
+[23-01-17 16:21:19] [INFO] [DEBUG] GuiListener has been unloaded. (took 1ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673943679921
+[23-01-17 16:21:19] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 11ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of Lang at 1673943679933
+[23-01-17 16:21:19] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Starting unload of Config at 1673943679933
+[23-01-17 16:21:19] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] unload done (took 16ms)
+[23-01-17 16:21:19] [INFO] [DEBUG] Log#clearSources done (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] onEnable start -> 1673943691815
+
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of Config at 1673943691851
+[23-01-17 16:21:31] [INFO] [DEBUG] Config has been loaded. (took 8ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of Lang at 1673943691859
+[23-01-17 16:21:31] [INFO] [DEBUG] Lang has been loaded. (took 16ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673943691875
+[23-01-17 16:21:31] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 1ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of GuiListener at 1673943691876
+[23-01-17 16:21:31] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673943691876
+[23-01-17 16:21:31] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 16:21:31] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 103ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673943691979
+[23-01-17 16:21:31] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 16:21:31] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 11ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of SettingsManager at 1673943691990
+[23-01-17 16:21:31] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673943691990
+[23-01-17 16:21:31] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 16:21:31] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 1ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673943691991
+[23-01-17 16:21:31] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of BettingManager at 1673943691991
+[23-01-17 16:21:31] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 16:21:31] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of InventoryManager at 1673943691991
+[23-01-17 16:21:31] [INFO] [DEBUG] InventoryManager has been loaded. (took 1ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of DuelManager at 1673943691992
+[23-01-17 16:21:31] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of QueueManager at 1673943691992
+[23-01-17 16:21:31] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 16:21:31] [INFO] [DEBUG] QueueManager has been loaded. (took 5ms)
+[23-01-17 16:21:31] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673943691997
+[23-01-17 16:21:32] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 16:21:32] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 7ms)
+[23-01-17 16:21:32] [INFO] [DEBUG] Starting load of RequestManager at 1673943692004
+[23-01-17 16:21:32] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 16:21:32] [INFO] [DEBUG] Starting load of Teleport at 1673943692004
+[23-01-17 16:21:32] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 16:21:32] [INFO] [DEBUG] Starting load of ExtensionManager at 1673943692004
+[23-01-17 16:21:32] [INFO] [DEBUG] ExtensionManager has been loaded. (took 1ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] onEnable start -> 1673950797358
+
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of Config at 1673950797400
+[23-01-17 18:19:57] [INFO] [DEBUG] Config has been loaded. (took 7ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of Lang at 1673950797407
+[23-01-17 18:19:57] [INFO] [DEBUG] Lang has been loaded. (took 15ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of UserManagerImpl at 1673950797422
+[23-01-17 18:19:57] [INFO] [DEBUG] UserManagerImpl has been loaded. (took 1ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of GuiListener at 1673950797423
+[23-01-17 18:19:57] [INFO] [DEBUG] GuiListener has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of KitManagerImpl at 1673950797423
+[23-01-17 18:19:57] [INFO] KitManagerImpl: Loaded 2 kit(s).
+[23-01-17 18:19:57] [INFO] [DEBUG] KitManagerImpl has been loaded. (took 79ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of ArenaManagerImpl at 1673950797503
+[23-01-17 18:19:57] [INFO] ArenaManagerImpl: Loaded 1 arena(s).
+[23-01-17 18:19:57] [INFO] [DEBUG] ArenaManagerImpl has been loaded. (took 9ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of SettingsManager at 1673950797512
+[23-01-17 18:19:57] [INFO] [DEBUG] SettingsManager has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of PlayerInfoManager at 1673950797512
+[23-01-17 18:19:57] [WARNING] PlayerInfoManager: Lobby location was not set, using world's spawn location as default. Use the command /duels setlobby in-game to set the lobby location.
+[23-01-17 18:19:57] [INFO] [DEBUG] PlayerInfoManager has been loaded. (took 1ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of SpectateManagerImpl at 1673950797513
+[23-01-17 18:19:57] [INFO] [DEBUG] SpectateManagerImpl has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of BettingManager at 1673950797513
+[23-01-17 18:19:57] [INFO] BettingManager: Vault was not found! Money betting feature will be automatically disabled.
+[23-01-17 18:19:57] [INFO] [DEBUG] BettingManager has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of InventoryManager at 1673950797513
+[23-01-17 18:19:57] [INFO] [DEBUG] InventoryManager has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of DuelManager at 1673950797513
+[23-01-17 18:19:57] [INFO] [DEBUG] DuelManager has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of QueueManager at 1673950797513
+[23-01-17 18:19:57] [INFO] QueueManager: Loaded 2 queue(s).
+[23-01-17 18:19:57] [INFO] [DEBUG] QueueManager has been loaded. (took 3ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of QueueSignManagerImpl at 1673950797516
+[23-01-17 18:19:57] [INFO] QueueSignManagerImpl: Loaded 2 queue sign(s).
+[23-01-17 18:19:57] [INFO] [DEBUG] QueueSignManagerImpl has been loaded. (took 5ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of RequestManager at 1673950797521
+[23-01-17 18:19:57] [INFO] [DEBUG] RequestManager has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of Teleport at 1673950797521
+[23-01-17 18:19:57] [INFO] [DEBUG] Teleport has been loaded. (took 0ms)
+[23-01-17 18:19:57] [INFO] [DEBUG] Starting load of ExtensionManager at 1673950797521
+[23-01-17 18:19:57] [INFO] [DEBUG] ExtensionManager has been loaded. (took 0ms)
+[23-01-17 18:19:58] [INFO] No updates were available. You are on the latest version!
+[23-01-17 21:57:29] [INFO] [DEBUG] onDisable start -> 1673963849461
+
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of ExtensionManager at 1673963849463
+[23-01-17 21:57:29] [INFO] [DEBUG] ExtensionManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of Teleport at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] Teleport has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of RequestManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] RequestManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of QueueSignManagerImpl at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] QueueSignManagerImpl has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of QueueManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] QueueManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of DuelManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] DuelManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of InventoryManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] InventoryManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of BettingManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] BettingManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of SpectateManagerImpl at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] SpectateManagerImpl has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of PlayerInfoManager at 1673963849464
+[23-01-17 21:57:29] [INFO] [DEBUG] PlayerInfoManager has been unloaded. (took 1ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of SettingsManager at 1673963849465
+[23-01-17 21:57:29] [INFO] [DEBUG] SettingsManager has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of ArenaManagerImpl at 1673963849465
+[23-01-17 21:57:29] [INFO] [DEBUG] ArenaManagerImpl has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of KitManagerImpl at 1673963849465
+[23-01-17 21:57:29] [INFO] [DEBUG] KitManagerImpl has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of GuiListener at 1673963849465
+[23-01-17 21:57:29] [INFO] [DEBUG] GuiListener has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of UserManagerImpl at 1673963849465
+[23-01-17 21:57:29] [INFO] [DEBUG] UserManagerImpl has been unloaded. (took 1ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of Lang at 1673963849466
+[23-01-17 21:57:29] [INFO] [DEBUG] Lang has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Starting unload of Config at 1673963849466
+[23-01-17 21:57:29] [INFO] [DEBUG] Config has been unloaded. (took 0ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] unload done (took 5ms)
+[23-01-17 21:57:29] [INFO] [DEBUG] Log#clearSources done (took 0ms)

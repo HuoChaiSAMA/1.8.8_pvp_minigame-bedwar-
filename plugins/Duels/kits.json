@@ -1,0 +1,481 @@
+{
+  "Nodebuff": {
+    "name": "Nodebuff",
+    "displayed": {
+      "item": {
+        "==": "org.bukkit.inventory.ItemStack",
+        "type": "DIAMOND_SWORD",
+        "meta": {
+          "==": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§7§lNodebuff",
+          "lore": [
+            "§aClick to send",
+            "§aa duel request",
+            "§awith this kit!"
+          ]
+        }
+      }
+    },
+    "usePermission": false,
+    "arenaSpecific": false,
+    "characteristics": [
+      "UHC",
+      "COMBO"
+    ],
+    "items": {
+      "INVENTORY": {
+        "0": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "DIAMOND_SWORD",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "DAMAGE_ALL": 2,
+                "DURABILITY": 3,
+                "FIRE_ASPECT": 2
+              },
+              "repair-cost": 7
+            }
+          }
+        },
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "ENDER_PEARL",
+            "amount": 16
+          }
+        },
+        "2": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 8259
+          }
+        },
+        "3": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 8258
+          }
+        },
+        "4": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "5": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "6": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "7": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "8": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "GOLDEN_CARROT",
+            "amount": 64
+          }
+        },
+        "9": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "10": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "11": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "12": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "13": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "14": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "15": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "16": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "17": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "18": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "19": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "20": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "21": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "22": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "23": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "24": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "25": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "26": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 8258
+          }
+        },
+        "27": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "28": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "29": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "30": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "31": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "32": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "33": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "34": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 16421
+          }
+        },
+        "35": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "POTION",
+            "damage": 8258
+          }
+        }
+      },
+      "ARMOR": {
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "DIAMOND_HELMET",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "PROTECTION_ENVIRONMENTAL": 3,
+                "DURABILITY": 3
+              },
+              "repair-cost": 3
+            }
+          }
+        },
+        "2": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "DIAMOND_CHESTPLATE",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "PROTECTION_ENVIRONMENTAL": 3,
+                "DURABILITY": 3
+              },
+              "repair-cost": 3
+            }
+          }
+        },
+        "3": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "DIAMOND_LEGGINGS",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "PROTECTION_ENVIRONMENTAL": 3,
+                "DURABILITY": 3
+              },
+              "repair-cost": 3
+            }
+          }
+        },
+        "4": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "DIAMOND_BOOTS",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "PROTECTION_ENVIRONMENTAL": 3,
+                "DURABILITY": 3,
+                "PROTECTION_FALL": 4
+              },
+              "repair-cost": 7
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bow": {
+    "name": "Bow",
+    "displayed": {
+      "item": {
+        "==": "org.bukkit.inventory.ItemStack",
+        "type": "DIAMOND_SWORD",
+        "meta": {
+          "==": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§7§lBow",
+          "lore": [
+            "§aClick to send",
+            "§aa duel request",
+            "§awith this kit!"
+          ]
+        }
+      }
+    },
+    "usePermission": false,
+    "arenaSpecific": false,
+    "characteristics": [
+      "SOUP",
+      "UHC"
+    ],
+    "items": {
+      "INVENTORY": {
+        "0": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "BOW",
+            "meta": {
+              "==": "ItemMeta",
+              "meta-type": "UNSPECIFIC",
+              "enchants": {
+                "ARROW_KNOCKBACK": 2,
+                "ARROW_FIRE": 1,
+                "ARROW_INFINITE": 1
+              },
+              "repair-cost": 7
+            }
+          }
+        },
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "2": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "3": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "4": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "5": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "6": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "7": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "8": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "MUSHROOM_SOUP"
+          }
+        },
+        "9": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "ARROW",
+            "amount": 64
+          }
+        }
+      },
+      "ARMOR": {
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "LEATHER_HELMET"
+          }
+        },
+        "2": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "LEATHER_CHESTPLATE"
+          }
+        },
+        "3": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "LEATHER_LEGGINGS"
+          }
+        },
+        "4": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "type": "LEATHER_BOOTS"
+          }
+        }
+      }
+    }
+  }
+}

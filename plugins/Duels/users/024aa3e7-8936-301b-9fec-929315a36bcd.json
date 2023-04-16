@@ -1,0 +1,53 @@
+{
+  "uuid": "024aa3e7-8936-301b-9fec-929315a36bcd",
+  "name": "HuoChaiSAMA123",
+  "wins": 0,
+  "losses": 23,
+  "requests": true,
+  "rating": {
+    "Nodebuff": 1251,
+    "Bow": 1346
+  },
+  "matches": [
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HuoChaiSAMA123",
+      "kit": "Nodebuff",
+      "time": 1666413394007,
+      "duration": 62897,
+      "health": 10.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HuoChaiSAMA123",
+      "kit": "Nodebuff",
+      "time": 1666413394007,
+      "duration": 18216,
+      "health": 7.5
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HuoChaiSAMA123",
+      "kit": "Nodebuff",
+      "time": 1666413394007,
+      "duration": 125928,
+      "health": 10.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HuoChaiSAMA123",
+      "kit": "Nodebuff",
+      "time": 1666413394007,
+      "duration": 21130,
+      "health": 8.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HuoChaiSAMA123",
+      "kit": "Nodebuff",
+      "time": 1666413394007,
+      "duration": 69931,
+      "health": 10.0
+    }
+  ]
+}

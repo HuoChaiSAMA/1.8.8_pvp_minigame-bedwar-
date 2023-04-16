@@ -1,0 +1,26 @@
+[
+  {
+    "location": {
+      "world": "world",
+      "x": 5.0,
+      "y": 150.0,
+      "z": 129.0,
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "kit": "Nodebuff",
+    "bet": 0
+  },
+  {
+    "location": {
+      "world": "world",
+      "x": 7.0,
+      "y": 150.0,
+      "z": 129.0,
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "kit": "Bow",
+    "bet": 0
+  }
+]

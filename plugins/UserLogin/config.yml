@@ -1,0 +1,153 @@
+# +----------------------------------------------------+
+# |..._...._..............._................._.........|
+# |..| |..| |.............| |...............(_)........|
+# |..| |..| |___..___._.__| |.....___...__._._._.__....|
+# |..| |..| / __|/ _ \ '__| |..../ _ \./ _` | | '_ \...|
+# |..| |..| \__ \  __/ |..| |___| (_) | (_| | | |.| |..|
+# |...\____/|___/\___|_|..|______\___/.\__, |_|_|.|_|..|
+# |......................................_/ |..........|
+# |....................................|___/...........|
+# +----------------------------------------------------+
+# ascii art is pretty cool huh
+# Discord support server: https://discord.gg/gbjaEDzRXU
+
+
+# Enable update checking
+checkUpdates: true
+
+# Language file to load
+lang: 'en_US'
+
+# Broadcast login messages
+loginBroadcast: true
+
+# Interval (seconds) for the pre-login welcome message (-1 to disable)
+repeatingWelcomeMsg: -1
+
+# Timeout-kicking settings
+timeout:
+
+  # Enable/disable timeout kicking
+  enabled: true
+
+  # Timeout delay in seconds
+  time: 60
+
+
+# Password options
+password:
+
+  # Optionally add extra salt rounds to
+  # the password encryption method
+  # (The initial value, without extra, is 10)
+  extraSalt: 0
+
+  # Minimum characters that a password must have
+  minCharacters: 4
+
+  # Maximum characters for a password.
+  # This will also be the maximum length
+  # for the VARCHAR data type in SQL storage.
+  maxCharacters: 128
+
+  # Regular expression to validate passwords with.
+  # Leave empty to disable
+  regex: ''
+
+
+# Restrictions for non-logged in players
+restrictions:
+  chat: true
+  commands: true
+  blockBreaking: true
+  blockPlacing: true
+  itemDrop: true
+  itemPickup: true # 1.12+ only
+  damage:
+    attack: true
+    receive: true
+  movement:
+    enabled: true
+    warnFrequency: 20 # Use -1 to disable
+
+
+# Enable/disable specific teleports
+teleports:
+
+  # Save players' position on logout
+  savePosition: false
+  # The savePosition mode teleports the player
+  # to their last position when they log in.
+  # Useful for survival servers and such.
+
+  # Teleport players to login location on join
+  toLogin: true
+
+  # Teleport players to spawn when logged in.
+  # Only takes effect when the BungeeCord and
+  # savePosition modes are disabled.
+  toSpawn: true
+
+
+# Player IP record options
+ipRecords:
+
+  # Allow players to bypass login if they enter with the
+  # same IP address consecutively
+  enabled: false
+
+  # Time (seconds) during which the player's IP
+  # will be remembered
+  delay: 30
+
+
+# BungeeCord options
+bungeeCord:
+
+  # Enable BungeeCord functionalities
+  enabled: false
+
+  # Server to send the player to, when logged in
+  spawnServer: 'LOBBY'
+
+
+# Database options
+database:
+
+  # Database type.
+  # One of: 'yaml', 'mongodb', 'mysql', 'postgresql', 'sqlite'
+  type: 'yaml'
+
+  yaml:
+    file: 'playerData.yml'
+
+  mongodb:
+    uri: 'mongodb://localhost:27017'
+    database: 'userlogin'
+    collection: 'players'
+
+  # To use anything SQL-based, the specified database
+  # must already exist, the plugin will NOT create it.
+
+  # (The MySQL implementation also supports MariaDB)
+  mysql:
+    ssl: false
+    host: 'localhost'
+    port: 3306
+    username: 'root'
+    password: 'password'
+    database: 'userlogin_data'
+    table: 'player_data'
+
+  postgresql:
+    ssl: false
+    host: 'localhost'
+    port: 5432
+    username: 'root'
+    password: 'password'
+    database: 'userlogin_data'
+    table: 'player_data'
+
+  sqlite:
+    database: 'C:/sqlite/db/userlogin.db'
+    table: 'player_data'

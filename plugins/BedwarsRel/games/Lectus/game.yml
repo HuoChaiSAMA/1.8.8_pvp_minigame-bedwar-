@@ -1,0 +1,227 @@
+name: Lectus
+world: Lectus
+loc1:
+  world: Lectus
+  x: -75.70338380572919
+  y: 22.775409810148858
+  z: 82.74660715684828
+  pitch: -1.9383411407470703
+  yaw: -140.71420288085938
+loc2:
+  world: Lectus
+  x: 88.069115854478
+  y: 115.18093438578578
+  z: -89.60481383107005
+  pitch: 13.096861839294434
+  yaw: -314.1686096191406
+lobby:
+  world: Lectus
+  x: 0.5
+  y: 119.73901678930444
+  z: 0.5
+  pitch: 0.0
+  yaw: 90.0
+minplayers: 4
+record: 289
+record-holders:
+- HuoChaiSAMA
+regionname: Lectus
+time: 1000
+targetmaterial: BED_BLOCK
+autobalance: false
+spawner:
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: Lectus
+    x: -44.266652770090566
+    y: 65.5
+    z: -53.69999998807907
+    pitch: 90.0
+    yaw: 185.98297119140625
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: Lectus
+    x: -53.69999998807907
+    y: 65.5
+    z: 45.72756412865033
+    pitch: 90.0
+    yaw: 94.62469482421875
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: Lectus
+    x: 45.48632787225291
+    y: 65.5
+    z: 54.693971801083535
+    pitch: 90.0
+    yaw: 357.8199462890625
+- ==: RessourceSpawner
+  name: bronze
+  location:
+    world: Lectus
+    x: 54.69999998807907
+    y: 65.5
+    z: -44.54380187852301
+    pitch: 89.26666259765625
+    yaw: 271.8558349609375
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: Lectus
+    x: 0.6122248654341662
+    y: 65.0
+    z: 54.69999998807907
+    pitch: 90.0
+    yaw: 357.979248046875
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: Lectus
+    x: 54.60128344120238
+    y: 65.0
+    z: 0.3622253688968247
+    pitch: 82.98018646240234
+    yaw: 194.427490234375
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: Lectus
+    x: 0.5001673966912316
+    y: 65.0
+    z: -53.54340292837503
+    pitch: 79.83699035644531
+    yaw: 125.7999267578125
+- ==: RessourceSpawner
+  name: iron
+  location:
+    world: Lectus
+    x: -53.46290721647213
+    y: 65.0
+    z: 0.5251580465368662
+    pitch: 83.2945785522461
+    yaw: 2.796142578125
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: Lectus
+    x: -13.53089183166838
+    y: 65.0
+    z: 0.6939805704168978
+    pitch: 82.61371612548828
+    yaw: 267.2938232421875
+- ==: RessourceSpawner
+  name: gold
+  location:
+    world: Lectus
+    x: 14.575756625648745
+    y: 65.0
+    z: 0.44275493578646596
+    pitch: 77.53218078613281
+    yaw: 279.65667724609375
+teams:
+  RED:
+    ==: Team
+    bedfeed:
+      world: Lectus
+      x: -40.0
+      y: 66.0
+      z: -42.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: Lectus
+      x: -46.5
+      y: 66.0
+      z: -47.5
+      pitch: 0.0
+      yaw: -45.0
+    color: RED
+    name: RED
+    maxplayers: 4
+    bedhead:
+      world: Lectus
+      x: -41.0
+      y: 66.0
+      z: -42.0
+      pitch: 0.0
+      yaw: 0.0
+  BLUE:
+    ==: Team
+    bedfeed:
+      world: Lectus
+      x: -42.0
+      y: 66.0
+      z: 40.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: Lectus
+      x: -47.5
+      y: 66.0
+      z: 47.5
+      pitch: 0.0
+      yaw: -135.0
+    color: BLUE
+    name: BLUE
+    maxplayers: 4
+    bedhead:
+      world: Lectus
+      x: -42.0
+      y: 66.0
+      z: 41.0
+      pitch: 0.0
+      yaw: 0.0
+  YELLOW:
+    ==: Team
+    bedfeed:
+      world: Lectus
+      x: 40.0
+      y: 66.0
+      z: 42.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: Lectus
+      x: 47.5
+      y: 66.0
+      z: 48.5
+      pitch: -0.20954930782318115
+      yaw: 134.94761657714844
+    color: YELLOW
+    name: YELLOW
+    maxplayers: 4
+    bedhead:
+      world: Lectus
+      x: 41.0
+      y: 66.0
+      z: 42.0
+      pitch: 0.0
+      yaw: 0.0
+  GREEN:
+    ==: Team
+    bedfeed:
+      world: Lectus
+      x: 42.0
+      y: 66.0
+      z: -40.0
+      pitch: 0.0
+      yaw: 0.0
+    spawn:
+      world: Lectus
+      x: 48.5
+      y: 66.0
+      z: -46.5
+      pitch: 0.0
+      yaw: 45.0
+    color: GREEN
+    name: GREEN
+    maxplayers: 4
+    bedhead:
+      world: Lectus
+      x: 42.0
+      y: 66.0
+      z: -41.0
+      pitch: 0.0
+      yaw: 0.0

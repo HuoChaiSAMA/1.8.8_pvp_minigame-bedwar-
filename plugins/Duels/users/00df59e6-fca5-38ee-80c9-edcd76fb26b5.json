@@ -1,0 +1,53 @@
+{
+  "uuid": "00df59e6-fca5-38ee-80c9-edcd76fb26b5",
+  "name": "kevinJzy",
+  "wins": 0,
+  "losses": 10,
+  "requests": true,
+  "rating": {
+    "Nodebuff": 1363,
+    "Bow": 1358
+  },
+  "matches": [
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "kevinJzy",
+      "kit": "Bow",
+      "time": 1666504600025,
+      "duration": 120451,
+      "health": 5.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "kevinJzy",
+      "kit": "Nodebuff",
+      "time": 1666504600025,
+      "duration": 22922,
+      "health": 9.5
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "kevinJzy",
+      "kit": "Bow",
+      "time": 1666504600025,
+      "duration": 50804,
+      "health": 7.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "kevinJzy",
+      "kit": "Nodebuff",
+      "time": 1666504600025,
+      "duration": 14388,
+      "health": 9.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "kevinJzy",
+      "kit": "Nodebuff",
+      "time": 1666504600025,
+      "duration": 59837,
+      "health": 6.5
+    }
+  ]
+}

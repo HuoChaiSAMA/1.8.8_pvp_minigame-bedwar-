@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Mon Jul 03 17:01:28 CEST 2017
+WorldName=Hypixel BedWars Lobby
+LastSaved=1499094087980

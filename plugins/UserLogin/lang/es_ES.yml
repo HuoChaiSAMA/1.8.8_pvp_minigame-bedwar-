@@ -1,0 +1,50 @@
+commands:
+  player_unregistered: '&b{player} &efue removido!'
+  errors:
+    player_only: '&cEste comando solo puede ser usado por jugadores'
+    no_permission: '&cNo tienes permiso para usar este comando'
+    player_not_found: '&cJugador no encontrado!'
+    unregister_failed: "&cError borrando registro, lee la consola para m\u8c29s detalles"
+  set: '&eLas coordenadas de {type} han sido establecidas en &bX: {x}, Y: {y}, Z:
+    {z}, Y: {yaw}, P: {pitch}, &een el mundo &b"{world}"'
+  reload: '&ePlugin recargado!'
+  descriptions:
+    userlogin: Comando principal de UserLogin
+    login: "Te logea al servidor con la contrase\u5e3da ingresada"
+    register: "Te registra con la contrase\u5e3da ingresada"
+  usages:
+    userlogin: "&cUso correcto: /userlogin [command] (Usa /ul help para m\u8c29s)"
+    login: '&cUso correcto: /login <password>'
+    register: '&cUso correcto: /register <password> <password>'
+messages:
+  not_registered: "&c\u9686No est\u8c29s registrado! Use &a/register <password> <password>\
+    \ &cpara registrarte!"
+  already_registered: "&cYa est\u8c29s registrado!"
+  incorrect_password: "&4Contrase\u5e3da incorrecta!"
+  short_password: "&cTu contrase\u5e3da debe tener un m\u94c6nimo de &4{chars} &ccaracteres"
+  long_password: "&cTu contrase\u5e3da puede tener un m\u8c29ximo de {chars} caracteres"
+  regex_mismatch: "&cTu contrase\u5e3da tiene un patr\u8d38n inv\u8c29lido!"
+  different_passwords: "&cLas contrase\u5e3das no concuerdan!"
+  already_logged_in: "&cYa est\u8c29s logeado!"
+  logged_in: '&9Has sido logeado!'
+  registered: '&9Has sido registrado!'
+  regregister_failed: '&cRegistro fallido, por favor intenta de nuevo.'
+  welcome:
+    registered: '&6Bienvenido! Usa &3/login <password> &6para entrar al servidor'
+    unregistered: '&6Bienvenido! Usa &3/register <password> <password> &6para registrarte'
+  chat_disabled: '&cDebes estar logeado para usar el chat!'
+  move_warning: '&cTienes que logearte para moverte!'
+  timeout: Te has quedado mucho tiempo sin logearte
+  login_announcement: '&e{player} se ha unido al servidor!'
+  commands_disabled: '&cTienes que logearte para usar comandos!'
+  help:
+  - '&a--------- | &2[Ayuda de UserLogin] &a| ---------'
+  - '&2/ul help: &aMuestra esta lista de ayuda'
+  - '&2/ul reload: &aRecarga las configuraciones'
+  - "&2/ul set <login>|<spawn>: &aEstablece la posici\u8d38n indicada en tus coordenadas"
+  - '&2/ul unregister <player>: &aElimina el registro del jugador dado'
+  - '&a-----------------------------------------------------'
+other:
+  database_connected: '&bBase de datos conectada!'
+  database_error: '&cError al conectar a la base de datos, lea abajo:'
+  driver_missing: '&cDriver JDBC para la base de datos no encontrado: {driver}'

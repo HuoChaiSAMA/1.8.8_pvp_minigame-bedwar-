@@ -1,0 +1,53 @@
+{
+  "uuid": "dfb5774c-fddb-3ed5-a297-377ba176f536",
+  "name": "HEY_11",
+  "wins": 0,
+  "losses": 8,
+  "requests": true,
+  "rating": {
+    "Nodebuff": 1350,
+    "Bow": 1374
+  },
+  "matches": [
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HEY_11",
+      "kit": "Bow",
+      "time": 1664947339631,
+      "duration": 67134,
+      "health": 0.5
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HEY_11",
+      "kit": "Nodebuff",
+      "time": 1664947339631,
+      "duration": 18066,
+      "health": 8.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HEY_11",
+      "kit": "Nodebuff",
+      "time": 1664947339631,
+      "duration": 37686,
+      "health": 8.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HEY_11",
+      "kit": "Bow",
+      "time": 1664947339631,
+      "duration": 79896,
+      "health": 10.0
+    },
+    {
+      "winner": "HuoChaiSAMA",
+      "loser": "HEY_11",
+      "kit": "Nodebuff",
+      "time": 1664947339631,
+      "duration": 141455,
+      "health": 10.0
+    }
+  ]
+}
